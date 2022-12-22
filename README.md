@@ -14,6 +14,8 @@ El teorema de superposición se demuestra teórica y prácticamente utilizando u
 -Realizar el circuito propuesto de manera correcta y funcional.
 
 # MARCO TEÓRICO
+![image](https://user-images.githubusercontent.com/116819463/209230598-d62b47c4-43e3-4e9f-b81a-fa1741d52746.png)
+![image](https://user-images.githubusercontent.com/116819463/209230619-3a29c58b-042b-4a25-8d4b-a98d0bf00efe.png)
 
 # PROCEDIMIENTO
 
@@ -124,5 +126,31 @@ VA1=2.85V
 
 Solución del circuito con el método de superposición en el voltaje de 3V
 
+R=(R4*R3)/(R4+R3)=(1000*2200)/(1000+2200)
 
+R=687.5
 
+R=R2+R3=820+687
+
+R=1507.5
+
+Ix=3/470
+
+Ix=0.006A=6.38mA
+
+VA2=(-3*820)/(687.5+820)
+
+VA2=-1.632
+
+VT=VA1+VA2=2.85+(-1.63)
+
+VT=1.22
+
+![image](https://user-images.githubusercontent.com/116819463/209233393-3c2a66f8-1141-4302-95ee-140b32569501.png)
+
+# CONCLUSIONES
+
+1) El Teorema o principio de Superposición es muy util e importante en los análisis de circuitos ya que este método solamente se utiliza para circuitos lineales y para obtener voltajes e intensidades en un circuito.
+
+2) Los pasos en el teorema de superposicion empieza anulando todas las fuentes menos una, despues se calcula la respuesta del circuito (tensión o corriente) a la única fuente que hemos dejado, 
+se repite los pasos 1 y 2 con cada fuente y finalmente se suman las respuestas de cada fuente
