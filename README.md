@@ -102,7 +102,7 @@ entonses 6.38+0=6.38
 
 El teorema superposicion en el simuladar funciona
 
-# RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
+# RESPUESTA A INTERROGANTES 
 
 Verifique el cumplimiento del Teorema de Superposición y compare los resultados obtenidos.
 
