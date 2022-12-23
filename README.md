@@ -163,6 +163,8 @@ Al utilizar el teorema podemos trabajar con circuitos con mas de una fuente de c
 
 # VIDEO
 
+https://youtu.be/gVcYM1gALkY
+
 # BIBLOGRAFIA
 
 https://dademuch.com/2019/11/08/principio-de-superposicion-analisis-de-circuitos-electricos/
