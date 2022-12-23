@@ -3,7 +3,7 @@
 
 # OBJETIVO GENERAL
 
-El teorema de superposición se demuestra teórica y prácticamente utilizando un simulador numérico para comparar los dos resultados y determinar la validez del método utilizado.
+Demoestrar teórica y prácticamente utilizando un simulador numérico para comparar los dos resultados y determinar la validez del método utilizado.
 
 # OBJETIVOS ESPECÍFICOS
 
@@ -154,3 +154,15 @@ VT=1.22
 
 2) Los pasos en el teorema de superposicion empieza anulando todas las fuentes menos una, despues se calcula la respuesta del circuito (tensión o corriente) a la única fuente que hemos dejado, 
 se repite los pasos 1 y 2 con cada fuente y finalmente se suman las respuestas de cada fuente
+
+# RECOMENDACIONES
+
+Realizar las mediciones de preferencia con un solo instrumento paraevitar propagación de errores.
+
+Al utilizar el teorema podemos trabajar con circuitos con mas de una fuente de carga conectada a el, pues estos pueden ser separados y al momento de sumarlos se puede dar cuenta que existe una precisión muy grande entre ellos y lo podemos comprobar con las tablas comparativas
+
+# VIDEO
+
+# BIBLOGRAFIA
+
+https://dademuch.com/2019/11/08/principio-de-superposicion-analisis-de-circuitos-electricos/
